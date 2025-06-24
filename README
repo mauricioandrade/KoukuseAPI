@@ -3,11 +3,16 @@
 
 An immersive, gamified REST API based on the Jujutsu Kaisen universe.
 
-[![Java](https://img.shields.io/badge/Java-17-blue.svg)]
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.3-green.svg)]
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue.svg)]
-[![Docker](https://img.shields.io/badge/Docker-ready-blue.svg)]
-[![Swagger](https://img.shields.io/badge/Swagger-documented-green.svg)]
+[![Java](https://img.shields.io/badge/Java-17-blue.svg)](https://www.java.com)
+
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.3-green.svg)](https://spring.io/projects/spring-boot)
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue.svg)](https://www.postgresql.org/)
+
+[![Docker](https://img.shields.io/badge/Docker-ready-blue.svg)](https://www.docker.com/)
+
+[![Swagger](https://img.shields.io/badge/Swagger-documented-green.svg)](https://swagger.io/)
+
 
 ---
 
@@ -57,7 +62,7 @@ To run this project locally, follow the steps below.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/kokusen-api.git](https://github.com/your-username/kokusen-api.git)
+    git clone [https://github.com/mauricioandrade/KoukuseAPI]
     cd kokusen-api
     ```
 
@@ -109,9 +114,13 @@ Contributions are what make the open-source community such an amazing place to l
 Uma API REST imersiva e gamificada baseada no universo de Jujutsu Kaisen.
 
 [![Java](https://img.shields.io/badge/Java-17-blue.svg)](https://www.java.com)
+
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.3-green.svg)](https://spring.io/projects/spring-boot)
+
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue.svg)](https://www.postgresql.org/)
+
 [![Docker](https://img.shields.io/badge/Docker-ready-blue.svg)](https://www.docker.com/)
+
 [![Swagger](https://img.shields.io/badge/Swagger-documented-green.svg)](https://swagger.io/)
 
 ---
@@ -162,7 +171,7 @@ Para executar este projeto localmente, siga os passos abaixo.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/kokusen-api.git](https://github.com/seu-usuario/kokusen-api.git)
+   git clone [https://github.com/mauricioandrade/KoukuseAPI]
     cd kokusen-api
     ```
 
@@ -206,4 +215,3 @@ Contribuições são o que tornam a comunidade de código aberto um lugar incrí
 3.  Faça o "Commit" de suas alterações (`git commit -m 'Add some AmazingFeature'`)
 4.  Faça o "Push" para a Branch (`git push origin feature/AmazingFeature`)
 5.  Abra um "Pull Request"
-
