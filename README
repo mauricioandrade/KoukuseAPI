@@ -1,3 +1,5 @@
+
+
 [EN]
 # Kokusen-API ⚡
 
@@ -6,6 +8,8 @@ An immersive, gamified REST API based on the Jujutsu Kaisen universe.
 [![Java](https://img.shields.io/badge/Java-17-blue.svg)](https://www.java.com)
 
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.3-green.svg)](https://spring.io/projects/spring-boot)
+
+![DOCKER](https://cdn.worldvectorlogo.com/logos/docker.svg)
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue.svg)](https://www.postgresql.org/)
 
