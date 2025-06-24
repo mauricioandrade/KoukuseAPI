@@ -3,11 +3,11 @@
 
 An immersive, gamified REST API based on the Jujutsu Kaisen universe.
 
-[![Java](https://img.shields.io/badge/Java-17-blue.svg)](https://www.java.com)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.3-green.svg)](https://spring.io/projects/spring-boot)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue.svg)](https://www.postgresql.org/)
-[![Docker](https://img.shields.io/badge/Docker-ready-blue.svg)](https://www.docker.com/)
-[![Swagger](https://img.shields.io/badge/Swagger-documented-green.svg)](https://swagger.io/)
+[![Java](https://img.shields.io/badge/Java-17-blue.svg)]
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.3-green.svg)]
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue.svg)]
+[![Docker](https://img.shields.io/badge/Docker-ready-blue.svg)]
+[![Swagger](https://img.shields.io/badge/Swagger-documented-green.svg)]
 
 ---
 
